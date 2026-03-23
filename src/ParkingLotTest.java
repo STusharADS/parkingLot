@@ -1,4 +1,10 @@
-package parkinglot;
+import parkinglot.Bill;
+import parkinglot.DemoData;
+import parkinglot.ParkingLot;
+import parkinglot.ParkingTicket;
+import parkinglot.SlotType;
+import parkinglot.VehicleDetails;
+import parkinglot.VehicleType;
 
 import java.time.LocalDateTime;
 

@@ -29,9 +29,9 @@ LLD assignment solution in Java with nearest-slot allocation by entry gate.
 ## Compile + run
 
 ```bash
-javac -d out src/Main.java src/parkinglot/*.java test/parkinglot/ParkingLotTest.java
+javac -d out src/Main.java src/parkinglot/*.java
 java -cp out Main
-java -cp out parkinglot.ParkingLotTest
+java -cp out ParkingLotTest
 ```
 
 ## Approach
